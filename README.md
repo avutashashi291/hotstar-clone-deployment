@@ -230,7 +230,6 @@ http://<LoadBalancer-DNS>
 
 ---
 
-## 🌟 Acknowledgement
-This project is inspired by the YouTube tutorial:  
+## 🌟 Acknowledgement  
 **“DevSecOps Project - Disney Hotstar App Deployment on Kubernetes using Jenkins CI/CD”**  
 Special thanks to the creator for educational guidance.
